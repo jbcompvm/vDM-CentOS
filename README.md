@@ -1,4 +1,4 @@
-centos-ssh-apache-php
+vDM Centos
 =====================
 
 Docker Image including CentOS-6 6.6 x86_64, Apache 2.2, PHP 5.3, PHP memcached 1.0, PHP APC 3.1, Composer.
@@ -35,9 +35,7 @@ $ docker run -d \
   jdeathe/centos-ssh-apache-php:latest
 ```
 
-Now point your browser to ```http://<docker-host>:8080``` where "```<docker-host>```" is the host name of your docker server and, if all went well, you should see the "Hello, world!" page.
-
-![Hello World Screen Shot](https://raw.github.com/jdeathe/centos-ssh-apache-php/centos-6/images/hello-world.png)
+Now point your browser to ```http://<docker-host>:8080``` where "```<docker-host>```" is the host name of your docker server and, if all went well, you should see the "Welcom Back to Earth!" page.
 
 ## Instructions
 
