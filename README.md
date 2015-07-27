@@ -194,7 +194,7 @@ $ docker run -d \
   --env DATE_TIMEZONE=UTC \
   --volumes-from volume-config.apache-php.app-1.1.1 \
   -v /var/services-data/apache-php/app-1:/var/www/app \
-  jdeathe/centos-ssh-apache-php:latest
+  jbcompvm/vdm-centos:latest
 ```
 
 #### ssl/certs/localhost.crt
