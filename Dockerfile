@@ -5,7 +5,7 @@
 # CentOS-6, Apache 2.2, PHP 5.3, PHP memcached 1.0, PHP APC 3.1, Composer
 # 
 # =============================================================================
-FROM jbcompvm/vdm-centos:centos-6-1.3.0
+FROM jdeathe/centos-ssh:centos-6-1.3.0
 
 MAINTAINER James Brown <james@jbcomp.com>
 
